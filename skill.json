@@ -1,0 +1,36 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Learn some of the terms and acronyms that are used daily within GSW.",
+          "examplePhrases": [
+            "Alexa open Speak People",
+            "Alexa ask Speak People for a term",
+            "Alexa tell Speak People to tell me something"
+          ],
+          "keywords": [
+            "GSW",
+            "Speak People",
+            "trivia",
+            "healthcare",
+            "pharma",
+            "advertising",
+            "marketing"
+          ],
+          "name": "Speak People",
+          "description": "GSW: Speak People. When Greatness Starts Within, you better be on your 'A' game. Use this Alexa skill to brush up on some of the terms and acronyms that are used daily within GSW.\n\nTo start, just say \"Alexa, launch Speak People\" or \"Alexa, open Speak People\" to get a random term\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+        }
+      },
+      "category": "EDUCATION_AND_REFERENCE"
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "lambda/custom"
+        }
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "speak people",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "GetNewTermIntent",
+          "slots": [],
+          "samples": [
+            "a term",
+            "tell me a term",
+            "give me a term",
+            "tell me trivia",
+            "give me trivia",
+            "give me some information",
+            "tell me something",
+            "give me something"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}

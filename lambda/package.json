@@ -1,0 +1,25 @@
+{
+  "name": "gsw-speak-people",
+  "version": "1.0.0",
+  "description": "GSW: Speak People. When Greatness Starts Within, you better be on your 'A' game. Use this Alexa skill to brush up on some of the terms and acronyms that are used daily within GSW.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brandonmorse <brandon@morsecodemedia.com> (https://www.morsecodemedia.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morsecodemedia/alexa-gsw-speak-people.git"
+  },
+  "bugs": {
+    "url": "https://github.com/morsecodemedia/alexa-gsw-speak-people/issues"
+  },
+  "homepage": "https://github.com/morsecodemedia/alexa-gsw-speak-people#readme",
+  "license": "MIT",
+  "dependencies": {
+    "ask-sdk-core": "^2.0.0",
+    "ask-sdk-model": "^1.0.0",
+    "i18next": "^11.8.0",
+    "i18next-sprintf-postprocessor": "^0.2.2"
+  }
+}
