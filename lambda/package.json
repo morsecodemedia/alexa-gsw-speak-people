@@ -1,6 +1,6 @@
 {
   "name": "gsw-speak-people",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GSW: Speak People. When Greatness Starts Within, you better be on your 'A' game. Use this Alexa skill to brush up on some of the terms and acronyms that are used daily within GSW.",
   "main": "index.js",
   "scripts": {
